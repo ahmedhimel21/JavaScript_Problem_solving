@@ -1,6 +1,6 @@
 //break example: 1
 for(let i =1; i<=10; i++){
-  console.log(i);
+  // console.log(i);
   if(i >5){
     break;
   }
@@ -12,7 +12,7 @@ for(let i = 0; i<items.length; i++){
   if(item === 'lighter'){
     break;
   }
-  console.log(item);
+  // console.log(item);
 }
 
 // continue(skip)
